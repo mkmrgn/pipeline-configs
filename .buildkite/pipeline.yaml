@@ -1,0 +1,3 @@
+steps:
+  - label: "Version controlled step"
+    command: "echo 'this pipeline config was loaded from a separate repository'"
